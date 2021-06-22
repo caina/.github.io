@@ -1,0 +1,1 @@
+(self.webpackChunkpersonal_blog=self.webpackChunkpersonal_blog||[]).push([[5285],{4435:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cicd","name":"cicd","count":1,"permalink":"/blog/tags/cicd"}')}}]);

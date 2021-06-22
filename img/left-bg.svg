@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="186px" viewBox="0 0 184 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.467 0 149.219 0 149.219 227.425 0.467 227.425"></polygon>
+        <polygon id="path-3" points="0.517 0 99.657 0 99.657 84.201 0.517 84.201"></polygon>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Fill-55" fill="#DB3C30" points="-0.533 55.568 -0.533 55.482 49.028 26.874 49.065 26.899 49.065 84.201 -0.533 55.568"></polyline>
+        <polyline id="Fill-56" fill="#00A49F" points="-0.529 170.099 -0.529 112.796 49.062 141.441 49.062 141.466 -0.529 170.099"></polyline>
+        <polyline id="Fill-57" fill="#092229" points="-0.529 112.796 -0.529 112.753 49.001 84.164 49.062 84.201 49.062 141.441 -0.529 112.796"></polyline>
+        <polyline id="Fill-58" fill="#092229" points="15.92 174.8 15.92 174.786 32.592 165.163 32.612 165.175 32.612 184.442 15.92 174.8"></polyline>
+        <g id="Group-71" transform="translate(-1.000000, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-60"></g>
+            <polyline id="Fill-59" fill="#092229" mask="url(#mask-2)" points="0.471 112.753 0.471 55.568 50.001 84.164 0.471 112.753"></polyline>
+            <polyline id="Fill-65" fill="#DB3C30" mask="url(#mask-2)" points="0.517 -1.721 50.065 -30.329 50.065 26.855 50.028 26.874 0.517 -1.721"></polyline>
+            <polyline id="Fill-66" fill="#DB3C30" mask="url(#mask-2)" points="0.467 55.482 0.467 -1.696 0.517 -1.721 50.028 26.874 0.467 55.482"></polyline>
+            <polyline id="Fill-67" fill="#DB3C30" mask="url(#mask-2)" points="50.065 84.201 50.065 26.899 99.657 55.544 99.657 55.568 50.065 84.201"></polyline>
+            <polyline id="Fill-68" fill="#E15E29" mask="url(#mask-2)" points="50.065 26.899 50.065 26.855 99.596 -1.733 99.657 -1.696 99.657 55.544 50.065 26.899"></polyline>
+            <polyline id="Fill-69" fill="#EE9C45" mask="url(#mask-2)" points="0.467 55.568 0.467 55.482 50.028 26.874 50.065 26.899 50.065 84.201 0.467 55.568"></polyline>
+            <polyline id="Fill-70" fill="#EE9C45" mask="url(#mask-2)" points="99.657 55.482 99.657 -1.696 99.707 -1.721 149.219 26.874 99.657 55.482"></polyline>
+        </g>
+        <polyline id="Fill-72" fill="#F8CD94" points="162.876 38.494 162.876 15.277 162.896 15.267 183 26.878 162.876 38.494"></polyline>
+        <polyline id="Fill-73" fill="#F8CD94" points="98.661 170.099 98.661 112.796 148.253 141.441 148.253 141.466 98.661 170.099"></polyline>
+        <polyline id="Fill-74" fill="#E67745" points="49.112 84.176 98.661 55.568 98.661 112.753 98.624 112.771 49.112 84.176"></polyline>
+        <polyline id="Fill-75" fill="#E67745" points="49.062 141.379 49.062 84.201 49.112 84.176 98.624 112.771 49.062 141.379"></polyline>
+        <polyline id="Fill-76" fill="#EE9C45" points="49.062 141.466 49.062 141.379 98.624 112.771 98.661 112.796 98.661 170.099 49.062 141.466"></polyline>
+        <g id="Group-82" transform="translate(-1.000000, 0.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-78"></g>
+            <polyline id="Fill-77" fill="#EE9C45" mask="url(#mask-4)" points="50.065 84.201 50.065 26.899 99.657 55.544 99.657 55.568 50.065 84.201"></polyline>
+            <polyline id="Fill-79" fill="#EE9C45" mask="url(#mask-4)" points="50.065 26.899 50.065 26.855 99.596 -1.733 99.657 -1.696 99.657 55.544 50.065 26.899"></polyline>
+            <polyline id="Fill-80" fill="#E15E29" mask="url(#mask-4)" points="50.065 26.855 50.065 -30.329 99.596 -1.733 50.065 26.855"></polyline>
+            <polyline id="Fill-81" fill="#781F21" mask="url(#mask-4)" points="0.517 -1.721 50.065 -30.329 50.065 26.855 50.028 26.874 0.517 -1.721"></polyline>
+        </g>
+        <polyline id="Fill-83" fill="#EE9C45" points="-0.533 55.568 -0.533 55.482 49.028 26.874 49.065 26.899 49.065 84.201 -0.533 55.568"></polyline>
+    </g>
+</svg>

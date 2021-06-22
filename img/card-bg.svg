@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="63px" viewBox="0 0 200 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 232 0 232 139 0 139"></polygon>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-39" transform="translate(122.000000, 100.500000) rotate(-28.000000) translate(-122.000000, -100.500000) translate(6.000000, 31.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-38"></g>
+            <path d="M234,13.5202556 L234,144 L0,144 L0,12.0913464 C5.76884305,2.69784684 15.0150388,-5.2973347 27.8934393,4.4267481 C51.7318393,22.4144263 56.0620821,-8.89427826 67.9816833,10.421654 C79.893261,29.7484413 105.357207,-0.900083537 124.31255,15.0892927 C143.268696,31.0776822 165.48155,81.7121873 223.43716,22.4144263 C227.288404,18.4760445 230.797851,15.5491489 234,13.5202556" id="Fill-37" fill="#1A2B34" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

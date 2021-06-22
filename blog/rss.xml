@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Douglas Caina Blog</title>
+        <link>http://caina.dev.br/blog</link>
+        <description>Douglas Caina Blog</description>
+        <lastBuildDate>Fri, 19 Jun 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Simple Angular search highlighting text without dependencies]]></title>
+            <link>http://caina.dev.br/blog/2020/06/19/angular-highlight-component-scratch</link>
+            <guid>Simple Angular search highlighting text without dependencies</guid>
+            <pubDate>Fri, 19 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[highlight-text-angular]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Angular TDD without BeforeEach, and why its a good idea.]]></title>
+            <link>http://caina.dev.br/blog/2020/02/12/angular-testing-without-before-each</link>
+            <guid>Angular TDD without BeforeEach, and why its a good idea.</guid>
+            <pubDate>Wed, 12 Feb 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Its been a while since I started to do some TDD with Angular and one of the things that start to bother me was the beforeEach mutations, you never know what is on the fixture, you never get if the component is being created on the beforeEach with the async, or the one without.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The weight of a dependency in a modern SPA application]]></title>
+            <link>http://caina.dev.br/blog/2020/01/05/front-end-weight-of-node-modules</link>
+            <guid>The weight of a dependency in a modern SPA application</guid>
+            <pubDate>Sun, 05 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[node modules joke]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Front-end for Single page applications(Angular, React, Vue) that scales with your team and how to makes sense of it.]]></title>
+            <link>http://caina.dev.br/blog/2019/11/20/frontend-angular-react-architecture-scales</link>
+            <guid>Front-end for Single page applications(Angular, React, Vue) that scales with your team and how to makes sense of it.</guid>
+            <pubDate>Wed, 20 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[creative-patrck-front-end]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Creating a featureToggle directive in Angular.]]></title>
+            <link>http://caina.dev.br/blog/2019/10/09/angular-simple-feature-toggle-that-works-outside-of-the-route</link>
+            <guid>Creating a featureToggle directive in Angular.</guid>
+            <pubDate>Wed, 09 Oct 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Photo by Anthony Intraversato on Unsplash]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Pushin to github in a pipeline without loging.]]></title>
+            <link>http://caina.dev.br/blog/2019/09/21/how-to-push-to-github-unauthenticated-in-pipeline</link>
+            <guid>Pushin to github in a pipeline without loging.</guid>
+            <pubDate>Sat, 21 Sep 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you want to push to github, (github pages as an example) the easier way is using the following code:]]></description>
+        </item>
+    </channel>
+</rss>
